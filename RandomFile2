@@ -4,7 +4,8 @@
 		"DOB": "01/26/03",
 		"Contact": "040-805-2430",
 		"Company": "Et Ultrices Posuere Company",
-		"ZipCode": "11007"
+		"ZipCode": "11007",
+		"Active": "True"
 		
 	},
 	{
